@@ -1,0 +1,2 @@
+kill @a
+say bruh
